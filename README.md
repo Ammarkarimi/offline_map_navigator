@@ -2,7 +2,8 @@
 
 A modern, interactive web application for pathfinding and exploration on custom grids. Built with FastAPI backend and vanilla JavaScript frontend, featuring A* pathfinding algorithm and BFS radius exploration.
 
-![Demo](https://github.com/Ammarkarimi/offline_map_navigator/blob/main/Demo.mp4)
+## 🎥 Demo Video
+🔗 [Click here to watch the demo]([https://drive.google.com/file/d/1RVsJ96t_CYDnzQ9Z_ZtRqtROlh0naSlq/view?usp=sharing](https://drive.google.com/file/d/1PD-FQqEJTlX7nPr0NhnnKEwgKqpn66ww/view?usp=sharing))
 
 ## ✨ Features
 
